@@ -1,5 +1,10 @@
-Ishara Chamodi Suraweera Portfolio Website
+Ishara Chamodi Suraweera portfolio
 
-Open index.html to preview. Upload all files and the assets folder to a GitHub repository. Enable GitHub Pages under Settings > Pages > Deploy from a branch, main / root.
+IMPORTANT: Upload index.html, style.css, script.js AND the complete assets folder together to the ROOT of your GitHub repository. Do not upload only index.html.
 
-Edit index.html to update content. Replace assets/profile.png to change the photo. The Download CV button links to the PDF in assets.
+Image: assets/profile.png
+CV download: assets/Ishara-Chamodi-Suraweera-CV.pdf
+
+To preview locally, extract this ZIP first, then open index.html.
+
+GitHub Pages: Settings > Pages > Deploy from a branch > main > /(root).
